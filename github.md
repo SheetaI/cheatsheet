@@ -1,4 +1,4 @@
-# Creating bare repo from scratch
+## Creating bare repo from scratch
 
 `mkdir dotfiles`
 `cd dotfiles`
