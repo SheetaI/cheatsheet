@@ -67,4 +67,4 @@ This is because your $HOME folder might already have some stock configuration fi
 
   7. `config config --local status.showUntrackedFiles no`
 
-**You're done, from now on you can now type config commands to add and update your dotfiles**
+**Done, from now on you can now type config commands to add and update your dotfiles**
