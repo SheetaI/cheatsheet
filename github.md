@@ -1,6 +1,6 @@
 # Dotfiles bare repo from scratch
 
-Reference Vid: https://www.youtube.com/watch?v=gsO0-wk3yz8
+Reference: https://www.youtube.com/watch?v=gsO0-wk3yz8
 
 **Creating bare repo directory:**
 
@@ -28,6 +28,8 @@ Reference Vid: https://www.youtube.com/watch?v=gsO0-wk3yz8
 **Done.**
 
 # Dotfiles migration to a new system
+
+Reference: https://www.atlassian.com/git/tutorials/dotfiles
 
 **Adding alias to .bash_aliases:**
 
