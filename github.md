@@ -1,5 +1,7 @@
 # Dotfiles bare repo from scratch
 
+Reference Vid: https://www.youtube.com/watch?v=gsO0-wk3yz8
+
 **Creating bare repo directory:**
 
   1. `mkdir dotfiles`
