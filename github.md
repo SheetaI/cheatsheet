@@ -68,3 +68,43 @@ This is because your $HOME folder might already have some stock configuration fi
   7. `config config --local status.showUntrackedFiles no`
 
 **Done, from now on you can now type config commands to add and update your dotfiles**
+
+
+# Git Commands
+
+**User settings**
+
+  - `git config --global user.name SheetaI`
+  
+  - `git config --global user.email im.kawaii.gg@gmail.com`
+
+**Save credentials**
+
+  `git config --global credential.helper cache`
+
+**Remove saved credentials**
+
+  `git config --global --unset credential.helper`
+  
+**Configuring new repo**
+ 
+   - `git init` initialize repo to be done once!
+  
+   - `git status` check if your repo dir is on branch master
+
+ **Update changes to repo**
+ 
+   - `git add .` shows changes were made in red
+   
+   - `git status` shows changes are added in green
+   
+   - `git commit -m "remarks"` commit changes
+   
+   - `git push "insert-git-url" master` or `git push origin master` if the url is aliased
+   
+ **Git URL aliasing**
+ 
+ - `git remote add origin "insert-git-url"` alias url to remove typing the url all the time
+ 
+ - `git push -u origin master` -u syntax to be done once!
+   
