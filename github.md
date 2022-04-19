@@ -22,7 +22,7 @@ Reference: https://www.youtube.com/watch?v=gsO0-wk3yz8
  
   7. `config commit -m "remarks"` 
  
-  8. `config push "git URL"` 
+  8. `config push "git URL"`  or `config push origin master`
 *if rejected error try adding -f -u after push*
 
 **Done.**
