@@ -1,6 +1,0 @@
-- ffmpeg
-
-here x:xx = time start | where xx = video lenght in seconds
-ffmpeg -i $(youtube-dl -f best --get-url "insert-youtube-url") \
--ss x:xx -t xx outputfile.mp4
-
