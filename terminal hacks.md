@@ -1,9 +1,11 @@
-**ffmpeg**
+**1. Downloading specific scene from a youtube vid**
 
+    ffmpeg -i $(youtube-dl -f best --get-url "insert-youtube-url") \
+    
+    -ss 0:17 -t 10 outputfile.mp4
 
-`ffmpeg -i $(youtube-dl -f best --get-url "insert-youtube-url") \
--ss x:xx -t xx outputfile.mp4`
-
-Syntax:
-x:xx = start time of clip # ex: 0:12
-xx = lenght of clip in sec. # ex: 10 
+   Syntax:
+   
+   0:17 = start time of the scene
+  
+   10 = lenght of scene in seconds
