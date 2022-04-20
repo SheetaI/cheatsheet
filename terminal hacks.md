@@ -12,4 +12,4 @@
    
    0:17 = start time of the scene
   
-   10 = lenght of scene in seconds
+   10 = lenght of thescene in seconds
