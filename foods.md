@@ -1,5 +1,5 @@
 
-**Breakfast:**
+**Breakfast: 7:00 AM**
 
 (a)
 - Boiled Egg Whole - 1 medium
@@ -23,7 +23,7 @@
 
 ---
 
-**Lunch:**
+**Lunch: 11:00 AM**
 - Salmon - 1 portion
 - Chopseuy - 1 cup
 - White Rice - 1 cup
@@ -32,7 +32,7 @@
 
 ---
 
-**Snacks:**
+**Snacks: 2:00 PM**
 
 (sandwich)
 - Wheat bread - 2 pcs
@@ -51,19 +51,19 @@
 
 ---
 
-**Dinner:** 
+**Dinner: 6:00 PM** 
 - Shrimp/fish/meats - 1 cup
 - White Rice - 1 cup
 
 ---
 
-**1 hr. before sleep:**
+**1 hr. before sleep: 8:00 PM**
 - Almond Milk - 1 cup
 - Naturals Stevia - 1/3 packet
 
 ---
 
-**30 min. before sleep:**
+**30 min. before sleep: 8:30 PM**
 - Honey - 1 tbsp
 
 ---
@@ -73,3 +73,8 @@
 - Vitamin D3 + K2 - after breakfast
 - Vitamin C - after lunch
 - Magnesium - before sleep
+
+---
+
+**Sleep:**
+- 9:00 PM - 6:00 AM
