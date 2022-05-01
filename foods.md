@@ -3,10 +3,22 @@
 - Boiled Egg Whole - 1 medium
 - Boiled Egg Whites - 2 medium
 - Chicken Breast - 1 portion
+- Lady's Choice Real Mayonnaise - 1 tbsp
+
+or
+
+- Oatmeal - 1 cup
+- Almond Milk - 1 cup
+- Banana - 1 medium
+- Honey - 1 tbsp
+- Chia seeds - 1 tsp
+- Crushed nuts - 1 tbsp
+
+paired with:
+
 - Black Coffee - 1 cpu
 - Vital Protein Collagen Creamer - 1 scoop
 - Naturals Stevia - 1 packet
-- Lady's Choice Real Mayonnaise - 1 tbsp
 
 ---
 
