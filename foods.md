@@ -33,8 +33,20 @@
 ---
 
 **Snacks:**
+(sandwich)
+- Wheat bread - 2 pcs
+- Spam / Ham - 2 slices
+- Fried Egg - 1 pc
+- Lettuce 
+- White Onion
+- Mayonnaise - 1 tsp
+- Ketchup - 1 tsp
+- Cheese - 1 pc
+
+(with)
 - Apple Carrot Juice - 1 cup
 - Almonds - 15 pcs.
+
 
 ---
 
