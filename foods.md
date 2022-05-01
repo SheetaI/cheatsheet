@@ -79,5 +79,5 @@
 **Sleep:**
 - 9:00 PM - 6:00 AM
 
-**Intermittend Fast**
-- 10/14 - Eat/Fast
+**Eating / Fasting Window:**
+- 10/14
