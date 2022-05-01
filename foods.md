@@ -6,8 +6,6 @@
 - Boiled Egg Whites - 2 medium
 - Chicken Breast - 1 portion
 - Lady's Choice Real Mayonnaise - 1 tbsp
-
-     or
      
 (b)
 - Oatmeal - 1 cup
@@ -17,7 +15,7 @@
 - Chia seeds - 1 tsp
 - Crushed nuts - 1 tbsp
 
-     paired with
+(with)
 
 - Black Coffee - 1 cpu
 - Vital Protein Collagen Creamer - 1 scoop
