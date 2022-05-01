@@ -1,5 +1,5 @@
 
-**Breakfast: 7:00 AM**
+**Breakfast: 8:00 AM**
 
 (a)
 - Boiled Egg Whole - 1 medium
@@ -78,3 +78,6 @@
 
 **Sleep:**
 - 9:00 PM - 6:00 AM
+
+**Intermittend Fast**
+- 10/14 - Eat/Fast
