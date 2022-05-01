@@ -1,12 +1,15 @@
 
 **Breakfast:**
+
+(a)
 - Boiled Egg Whole - 1 medium
 - Boiled Egg Whites - 2 medium
 - Chicken Breast - 1 portion
 - Lady's Choice Real Mayonnaise - 1 tbsp
 
      or
-
+     
+(b)
 - Oatmeal - 1 cup
 - Almond Milk - 1 cup
 - Banana - 1 medium
