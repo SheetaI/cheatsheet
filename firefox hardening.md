@@ -66,6 +66,6 @@ toolkit.telemetry.server
 
 - Bitwarden
 
-- Metamask #optional
+- Metamask 
 
-- Phantom #optional
+- Phantom 
