@@ -62,7 +62,7 @@ toolkit.telemetry.server
 
 **extensions**
 
-- Ublock origin (Settings > Filter lists > Check `AdGuard URL Tracking Protection`)
+- Ublock origin: Settings > Filter lists > Check `AdGuard URL Tracking Protection`
 
 - Bitwarden
 
