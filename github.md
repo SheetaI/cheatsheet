@@ -16,7 +16,7 @@ Reference: https://www.youtube.com/watch?v=gsO0-wk3yz8
   
   5. `config config --local status.showUntrackedFiles no`
  
-**Adding dotfiles to github repo:**
+**Adding/Updating dotfiles to github repo:**
  
   6. `config add "file/directory"`
  
