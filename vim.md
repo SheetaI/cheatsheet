@@ -43,7 +43,6 @@ search mode | /
 navigate to the next search match | n
 command mode | :
 
-
 ## VISUAL MODE
 | does | key |
 :-- | :--: |
