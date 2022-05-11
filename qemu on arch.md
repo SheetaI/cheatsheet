@@ -45,4 +45,5 @@
   `sudo virsh net-start default`
 
 - Verify if default is | active | yes | yes
+
   `sudo virsh net-list`
