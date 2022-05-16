@@ -1,16 +1,16 @@
-# run
+**run**
 `sudo systemctl edit getty@tty1`
 
-# Edit the line ExectStart=
+**Edit the line ExectStart=**
 `ExecStart=-/sbin/agetty --autologin sheetal --noclear %I $TERM`
 
-# Automatic startx
+**Automatic startx**
 `[ "$(tty)" = "/dev/tty1" ] && exec startx`
 
-# run
+**run**
 `systemctl set-default multi-user.target`
 
-# done!
+**done**
 
-# to reverse changes
+**to reverse changes**
 `systemctl set-default graphical.target`
