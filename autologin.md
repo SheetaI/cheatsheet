@@ -1,4 +1,5 @@
 **run**
+
 `sudo systemctl enable getty@tty1.service`
 
 `mkdir -p /etc/systemd/system/getty.target.wants`
@@ -7,13 +8,15 @@
 
 `sudo vim /etc/systemd/system/getty.target.wants/getty@tty1.service`
 
-**Edit the line [Service] ExectStart= & Type**
+**Edit [Service]:**
+ExectStart & Type lines
 
 `ExecStart=-/sbin/agetty --autologin sheetal --noclear %I $TERM`
 
 `Type=simple`
 
-**Automatic startx: Edit .bash_profile**
+**Add in .bash_profile:**
+Automatic startx
 
 `[ "$(tty)" = "/dev/tty1" ] && exec startx`
 
