@@ -13,3 +13,7 @@
    0:17 = start time of the scene
   
    10 = lenght of thescene in seconds
+
+**1. Zoom-in Zoom-out**
+
+Super + Shift + Up/Down Keys
