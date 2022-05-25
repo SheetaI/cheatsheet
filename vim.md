@@ -2,6 +2,9 @@
 
 ## NORMAL MODE
 
+**Find & Replace**
+
+
 **Moving directions**
 
 | direction | key |
@@ -42,6 +45,9 @@ undo changes | u
 search mode | /
 navigate to the next search match | n
 command mode | :
+find & replace all word | :%s/word-to-find/wort-to-replace/g
+find & replace single world | :%s/word-to-find/wort-to-replace
+find & replace with confirmations | :%s/word-to-find/wort-to-replace/gc
 
 ## VISUAL MODE
 | does | key |
