@@ -17,3 +17,7 @@
 **2. Zoom-in Zoom-out**
 
    `Super + Shift + Up/Down Keys`
+
+**3. Speeding up a video**
+
+ `ffmpeg -i input.mp4 -filter:v "setpts=0.25*PTS" output.mp4`
