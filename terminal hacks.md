@@ -14,6 +14,6 @@
   
    10 = lenght of thescene in seconds
 
-**1. Zoom-in Zoom-out**
+**2. Zoom-in Zoom-out**
 
-Super + Shift + Up/Down Keys
+   `Super + Shift + Up/Down Keys`
