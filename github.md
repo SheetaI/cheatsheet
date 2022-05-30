@@ -124,5 +124,5 @@ This is because your $HOME folder might already have some stock configuration fi
 
  **Switching Git branches**
   
- - git checkout "insert-branch-to-switch" 
+ - `git checkout "insert-branch-to-switch"`
  
