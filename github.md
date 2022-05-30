@@ -122,7 +122,9 @@ This is because your $HOME folder might already have some stock configuration fi
  
  - `git merge "insert-branch-name"` if youre in master branch, and want to merge to test branch, it should be `git merge test`
 
- **Switching Git branches**
+ **Switching & Listing Git branches**
   
  - `git checkout "insert-branch-to-switch"`
+ 
+ - `git branch --list`
  
