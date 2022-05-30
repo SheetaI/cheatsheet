@@ -74,7 +74,7 @@ This is because your $HOME folder might already have some stock configuration fi
 **Done, from now on you can now type config commands to add and update your dotfiles**
 
 
-# Git Commands
+# Useful Git Commands
 
 **User settings**
 
