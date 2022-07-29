@@ -23,3 +23,6 @@
  `ffmpeg -i input.mp4 -filter:v "setpts=0.25*PTS" output.mp4`
 
  `ffmpeg -i input.mkv -filter_complex "[0:v]setpts=0.5*PTS[v];[0:a]atempo=2.0[a]" -map "[v]" -map "[a]" output.mkv`
+
+**4. Cut a video**
+ `ffmpeg -ss 00:08:00 -i final.mp4 -ss 00:12:00 -t 00:27:40 -c copy output.mp4`
