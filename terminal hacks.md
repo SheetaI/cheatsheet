@@ -26,4 +26,4 @@
 
 **4. Cut a video**
 
- `ffmpeg -i final.mp4 -ss 00:10:00 -t 00:27:40 -c copy output.mp4`
+ `ffmpeg -i input.mp4 -ss 0:02 -t 22 -c copy output.mp4`
